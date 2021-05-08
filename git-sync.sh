@@ -6,7 +6,7 @@ sh updaterepo.sh
 cd ..
 
 echo "Pulling newer files first"
-git pull
+#git pull
 
 git add --all .
 
